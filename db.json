@@ -15,4 +15,14 @@
     "Nombre": "Freidora de aire",
     "Puntos": 1000
   }
-]}
+],
+"usuarios":[
+  {
+    "Nombre" : "Joe",
+    "Apellido": "Doe",
+    "Telefono":"0987654321",
+    "Correo": "jhondoe@test.com",
+    "Clave": "1234"
+  }
+ ]
+}
