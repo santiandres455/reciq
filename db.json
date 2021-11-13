@@ -1,33 +1,38 @@
 {
   "premios": [
   {
-    "id_Imagen": "https://www.eluniverso.com/resizer/NCkrfzFHoEcVsDAUbppYfIYnqQs=/500x500/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/SHBLO3KEEBDCFCZZT2NC6WAAHY.jpg",
-    "id_Nombre": "Freidora de aire",
-    "id_Puntos": 1000
+      "id":"1",
+    "Imagen": "https://www.eluniverso.com/resizer/NCkrfzFHoEcVsDAUbppYfIYnqQs=/500x500/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/SHBLO3KEEBDCFCZZT2NC6WAAHY.jpg",
+    "Nombre": "Freidora de aire",
+    "Puntos": 1000
   },
   {
-    "id_Imagen": "https://www.eluniverso.com/resizer/NCkrfzFHoEcVsDAUbppYfIYnqQs=/500x500/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/SHBLO3KEEBDCFCZZT2NC6WAAHY.jpg",
-    "id_Nombre": "Freidora de aire",
-    "id_Puntos": 1000
+      "id":"2",
+    "Imagen": "https://www.eluniverso.com/resizer/NCkrfzFHoEcVsDAUbppYfIYnqQs=/500x500/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/SHBLO3KEEBDCFCZZT2NC6WAAHY.jpg",
+    "Nombre": "Freidora de aire",
+    "Puntos": 1000
   },
   {
-    "id_Imagen": "https://www.eluniverso.com/resizer/NCkrfzFHoEcVsDAUbppYfIYnqQs=/500x500/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/SHBLO3KEEBDCFCZZT2NC6WAAHY.jpg",
-    "id_Nombre": "Freidora de aire",
-    "id_Puntos": 1000
+      "id":"3",
+    "Imagen": "https://www.eluniverso.com/resizer/NCkrfzFHoEcVsDAUbppYfIYnqQs=/500x500/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/SHBLO3KEEBDCFCZZT2NC6WAAHY.jpg",
+    "Nombre": "Freidora de aire",
+    "Puntos": 1000
   }
 ],
 "usuarios":[
   {
-    "id_Nombre" : "Joe",
-    "id_Apellido": "Doe",
-    "id_Telefono":"0987654321",
-    "id_puntos": 1000,
-    "id_Correo": "jhondoe@test.com",
-    "id_Clave": "1234"
+      "id":"1",
+    "Nombre" : "Joe",
+    "Apellido": "Doe",
+    "Telefono":"0987654321",
+    "puntos": 1000,
+    "Correo": "jhondoe@test.com",
+    "Clave": "1234"
   }
  ],
   "tiposreciclaje":[
   {
+     "id":"1",
     "Nombre" : "Joe",
     "Foto": "https://www.eluniverso.com/resizer/NCkrfzFHoEcVsDAUbppYfIYnqQs=/500x500/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/SHBLO3KEEBDCFCZZT2NC6WAAHY.jpg",
     "Descripcion":"sdsadsadsadasd sad as dsad asd asdasd as dasd asd asd asd as"
@@ -35,10 +40,12 @@
  ],
    "citas":[
   {
-    "id_direccion" : "av mariscal",
-    "id_fecha": "05-21-2020",
-    "id_hora":"08-30-00",
+    "id":"1",
+    "direccion" : "av mariscal",
+    "fecha": "05-21-2020",
+    "hora":"08-30-00",
       "id_usuario": "Joe"
   }
  ]
+  
 }
