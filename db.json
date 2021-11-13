@@ -21,6 +21,7 @@
     "Nombre" : "Joe",
     "Apellido": "Doe",
     "Telefono":"0987654321",
+    "puntos": 1000,
     "Correo": "jhondoe@test.com",
     "Clave": "1234"
   }
